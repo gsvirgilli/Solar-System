@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import SolarSystem from '../components/SolarSystem';
+import SolarSystem from '../components/SolarSystem.tsx';
 
 import Planets from '../data/planets';
 
